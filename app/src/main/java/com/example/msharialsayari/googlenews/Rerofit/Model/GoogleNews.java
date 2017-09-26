@@ -1,9 +1,8 @@
 
-package com.example.msharialsayari.googlenews.data.Model;
+package com.example.msharialsayari.googlenews.Rerofit.Model;
 
 import java.util.List;
 
-import com.example.msharialsayari.googlenews.data.Model.Article;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
